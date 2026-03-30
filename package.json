@@ -16,7 +16,8 @@
     "url": "git+https://github.com/RobBrown/observability-core.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
   },
   "license": "ISC",
   "devDependencies": {
